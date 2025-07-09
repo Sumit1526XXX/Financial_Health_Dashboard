@@ -32,3 +32,11 @@ An interactive Financial Health Dashboard analyzing income statements, balance s
 - **DAX (Data Analysis Expressions)** for calculated measures  
 
 ---
+## 📂 Project Files
+
+| File Name | Description |
+|-----------|-------------|
+| `Financial Health Dashboard.pbix` | Main Power BI report file |
+| `Financial Health Dashboard.png` | Preview of the dashboard |
+
+---
